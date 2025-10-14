@@ -1,2 +1,1 @@
-# -Sales-Performance-Analysis-TechMart-Power-BI
-TechMart Việt Nam là chuỗi bán lẻ điện tử với quy mô:
+Sales Performance Analysis For The TechMart | Power BI
