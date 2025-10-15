@@ -60,7 +60,7 @@ ________________________________________________________________________________
 ## 2. CẤU TRÚC DỮ LIỆU 
 ### 2.1. Tổng Quan Về Tập Dữ Liệu
 - **Nguồn**: Nguyen Ngoc Tuan
-- **Định dạng:** File CSV
+- **Định dạng:** File Excel
 - **Tập dữ liệu bao gồm 12 bảng chính**
 ### 2.2. Các Bảng Dữ Liệu Chính
 <table>
@@ -174,5 +174,25 @@ ________________________________________________________________________________
     <td>product_id</td>
     <td>Một - Nhiều</td>
   </tr>
+      <tr>
+    <td><strong>Employees</strong></td>
+    <td><strong>Teams</strong</td>
+    <td>team_id</td>
+    <td>Nhiều - Một</td>
+  </tr>
+        <tr>
+    <td><strong>Employees</strong></td>
+    <td><strong>Stores</strong</td>
+    <td>store_id</td>
+    <td>Nhiều - Một</td>
+  </tr>
+  <tr>
+    <td><strong>Teams</strong</td>
+    <td><strong>Stores</strong></td>
+    <td>store_id</td>
+    <td>Một - Một</td>
+  </tr>
 </table>
+
+## 3. LUỒNG TƯ DUY THIẾT KẾ
 
