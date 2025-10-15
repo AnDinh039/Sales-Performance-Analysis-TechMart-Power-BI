@@ -58,3 +58,121 @@ ________________________________________________________________________________
 - **Sản phẩm:** Quản lý sản phẩm và kho
 
 ## 2. CẤU TRÚC DỮ LIỆU 
+### 2.1. Tổng Quan Về Tập Dữ Liệu
+- **Nguồn**: Nguyen Ngoc Tuan
+- **Định dạng:** File CSV
+- **Tập dữ liệu bao gồm 12 bảng chính**
+### 2.2. Các Bảng Dữ Liệu Chính
+<table>
+  <tr>
+    <td><strong>Bảng</strong></td>
+    <td><strong>Số Dòng</strong</td>
+    <td><strong>Mô Tả</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Orders</strong></td>
+    <td>20</td>
+    <td>Thông tin đơn hàng</td>
+  </tr>
+  <tr>
+    <td><strong>Order_Items</strong></td>
+    <td>44</td>
+    <td>Chi tiết các sản phẩm có trong đơn hàng</td>
+  </tr>
+  <tr>
+    <td><strong>Customers</strong></td>
+    <td>16</td>
+    <td>Thông tin khách hàng</td>
+  </tr>
+  <tr>
+    <td><strong>Products</strong></td>
+    <td>20</td>
+    <td>Thông tin sản phẩm, danh mục</td>
+  </tr>
+  <tr>
+    <td><strong>Stores</strong></td>
+    <td>5</td>
+    <td>Thông tin cửa hàng</td>
+  </tr>
+    <tr>
+    <td><strong>Employees</strong></td>
+    <td>13</td>
+    <td>Thông tin nhân viên</td>
+  </tr>
+  <tr>
+    <td><strong>Teams</strong></td>
+    <td>5</td>
+    <td>Cơ cấu tổ chức nhóm</td>
+  </tr>
+  <tr>
+    <td><strong>Channels</strong></td>
+    <td>3</td>
+    <td>Chi phí và đặc điểm kênh</td>
+  </tr>
+    <tr>
+    <td><strong>Store_Target</strong></td>
+    <td>16</td>
+    <td>KPI theo cửa hàng</td>
+  </tr>
+  <tr>
+    <td><strong>Channel_Target</strong></td>
+    <td>16</td>
+    <td>KPI theo kênh</td>
+  </tr>
+  <tr>
+    <td><strong>Team_Target</strong></td>
+    <td>16</td>
+    <td>KPI theo nhóm</td>
+  </tr>
+  <tr>
+    <td><strong>Employee_Target</strong></td>
+    <td>16</td>
+    <td>KPI cá nhân</td>
+  </tr>
+</table>
+
+### 2.3. Mối Quan Hệ Giữa Các Bảng
+<table>
+  <tr>
+    <td><strong>Bảng</strong></td>
+    <td><strong>Bảng Kết Nối</strong</td>
+    <td><strong>Khoá</strong></td>
+    <td><strong>Mối Quan Hệ</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Orders</strong></td>
+    <td><strong>Customers</strong</td>
+    <td>customer_id</td>
+    <td>Nhiều - Một</td>
+  </tr>
+  <tr>
+    <td><strong>Orders</strong></td>
+    <td><strong>Stores</strong</td>
+    <td>store_id</td>
+    <td>Nhiều - Một</td>
+  </tr>
+    <tr>
+    <td><strong>Orders</strong></td>
+    <td><strong>Employees</strong</td>
+    <td>employee_id</td>
+    <td>Nhiều - Một</td>
+      <tr>
+    <td><strong>Orders</strong></td>
+    <td><strong>Channel</strong</td>
+    <td>channel_id</td>
+    <td>Nhiều - Một</td>
+  </tr>
+    <tr>
+    <td><strong>Order_Items</strong></td>
+    <td><strong>Orders</strong</td>
+    <td>order_id</td>
+    <td>Một - Nhiều</td>
+  </tr>
+    <tr>
+    <td><strong>Order_Items</strong></td>
+    <td><strong>Products</strong</td>
+    <td>product_id</td>
+    <td>Một - Nhiều</td>
+  </tr>
+</table>
+
