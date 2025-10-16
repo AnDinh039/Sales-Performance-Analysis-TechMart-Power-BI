@@ -195,4 +195,8 @@ ________________________________________________________________________________
 </table>
 
 ## 3. LUỒNG TƯ DUY THIẾT KẾ
+### 3.1. Thấu Hiểu
+<img width="1216" height="782" alt="image" src="https://github.com/user-attachments/assets/1e60b180-0a71-40c3-acf2-1ad8a4a53686" />
+
+
 
