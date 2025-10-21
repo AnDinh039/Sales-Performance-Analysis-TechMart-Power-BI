@@ -195,16 +195,62 @@ ________________________________________________________________________________
 </table>
 
 ## 3. LUỒNG TƯ DUY THIẾT KẾ
-### 3.1. Thấu Hiểu <img width="32" height="32" alt="thought-leadership" src="https://github.com/user-attachments/assets/4d75784b-a264-402b-bb31-962826f64845" />
+### 3.1. <img width="32" height="32" alt="thought-leadership" src="https://github.com/user-attachments/assets/4d75784b-a264-402b-bb31-962826f64845" /> Thấu Hiểu 
 <img width="1216" height="782" alt="image" src="https://github.com/user-attachments/assets/1e60b180-0a71-40c3-acf2-1ad8a4a53686" />
 
-### 3.2. Hành Trình Của StakeHolders <img width="32" height="32" alt="customer-journey" src="https://github.com/user-attachments/assets/0119cff4-14d5-4a4d-b0c5-2e4cdd20559f" />
+### 3.2. <img width="32" height="32" alt="customer-journey" src="https://github.com/user-attachments/assets/0119cff4-14d5-4a4d-b0c5-2e4cdd20559f" /> Hành Trình Của StakeHolders 
 <img width="1216" height="782" alt="_Gradient Sale Promotional Business Flag (900 x 900 px) (1216 x 782 px)" src="https://github.com/user-attachments/assets/3fbc0123-d0a0-458b-a279-7d710384b04d" />
 
-### 3.3 Ý Tưởng <img width="32" height="32" alt="idea" src="https://github.com/user-attachments/assets/4569a971-4186-4113-aa1a-717ea3f07c6b" />
+### 3.3  <img width="32" height="32" alt="idea" src="https://github.com/user-attachments/assets/4569a971-4186-4113-aa1a-717ea3f07c6b" /> Ý Tưởng
 <img width="1216" height="782" alt="_Gradient Sale Promotional Business Flag (900 x 900 px) (1216 x 782 px) (1)" src="https://github.com/user-attachments/assets/cf3ea02e-36b2-4199-aaf8-5de493712bdc" />
-<img width="1216" height="782" alt="_Gradient Sale Promotional Business Flag (900 x 900 px) (1216 x 782 px) (1)" src="https://github.com/user-attachments/assets/f19f2cca-0ab1-484e-be28-a1184d83b8e0" />
-<img width="1216" height="782" alt="_Gradient Sale Promotional Business Flag (900 x 900 px) (1216 x 782 px) (1)" src="https://github.com/user-attachments/assets/c1c1a674-0271-4f25-831f-f074559a94ed" />
+<img width="1216" height="782" alt="_Gradient Sale Promotional Business Flag (900 x 900 px) (1216 x 782 px) (2)" src="https://github.com/user-attachments/assets/8d8a87e9-0ad4-4e0c-8552-3e9771df0df5" />
+<img width="1216" height="782" alt="_Gradient Sale Promotional Business Flag (900 x 900 px) (1216 x 782 px) (3)" src="https://github.com/user-attachments/assets/6ba85859-76fa-4e29-9478-dd45ffed6de3" />
+<img width="1040" height="478" alt="image" src="https://github.com/user-attachments/assets/aba2ad7d-6d6e-4511-a17f-ddf0b264fd53" />
+
+### 3.4 <img width="32" height="32" alt="dashboard" src="https://github.com/user-attachments/assets/515157f3-7f5d-462a-b93b-06c58b161014" /> Xây Dựng Dashboard
+**I. Executive Overview**
+<img width="2000" height="1515" alt="image" src="https://github.com/user-attachments/assets/0dadfecb-2b79-4e41-8587-40cda286d889" />
+**<img width="32" height="32" alt="magnifying-glass" src="https://github.com/user-attachments/assets/9e563f9f-2125-4421-b48c-6a805dc8d6b9" /> Phát hiện chính** 
+
+**1. Về hiệu suất hoạt động**
+- Tổng số đơn hàng là **20 đơn** thu về **27 triệu VND**, biên lợi nhuận gộp đạt **15.84%** với lợi nhuận là **4.28 triệu VND**. Trong đó, giá trị mỗi đơn hàng trị giá **1.353 triệu VND**. Tuy nhiên, **tỷ lệ đạt mục tiêu đề ra đang rất thấp**, các chỉ số như doanh thu và đơn hàng chỉ đạt **1.59%** và **1.34%**, thấp hơn nhiều so với kỳ vọng mặc dù tỷ lệ tỷ lệ AOV cao tới **118.64%**.
+  
+    → *Mặc dù **chiến lược upselling/cross-selling hiệu quả** nhưng **biên lợi nhuận vẫn ở mức 15.84%** cho thấy giá sản phẩm, các loại chi phí chưa cân đối. **Hiệu suất hoạt động chưa ổn định và cần cải thiện***
+- Về khách hàng, tỷ lệ khách hàng **quay lại mua** thấp chỉ đạt **18.75%**, chủ yếu là khách hàng **mới** chiếm **81.25%**
+
+  → *Điều này cho thấy **các sản phẩm và chiến dịch marketing** hiện tại có hiệu quả trong việc thu hút khách hàng mới, nhưng chưa đủ để giữ chân và duy trì tệp khách hàng hiện hữu.*
+  
+**2. Xu hướng doanh thu theo ngày**
+- Doanh thu (từ ngày 15-24) trung bình đạt mức **2.7 triệu VND/ngày**. Trong đó, doanh thu đạt đỉnh vào ngày 22 **(4.2 triệu VND)** và chạm đáy vào 20 **(1.6 triệu VND)**, nhìn chung doanh thu có sự biến động rất lớn với chênh lệch đáng kể giữa đỉnh và đáy.
+  
+   → *Doanh thu có nhiều biến động, nhưng **đường xu hướng** cho thấy doanh thu có xu hướng **tăng trưởng** về lâu dài.*
+
+**3. Doanh thu theo kênh bán hàng** 
+- **Kênh Online** hoạt động hiểu quả với doanh thu đạt được là **10.3 triệu VND**, chiếm **38.03%**. Mặc dù số lượng đơn chỉ đứng thứ hai sau **kênh In-Store (7 đơn so với 8 đơn)** nhưng **giá trị trung bình mỗi đơn** đạt được là **1.47 triệu VND**, cao hơn nhiều so với 2 kênh còn lại.
+
+  → ***Khách hàng có xu hướng chi tiêu nhiều hơn khi mua sắm trực tuyến**, có thể nhờ **các chiến dịch quảng cáo tốt và nhắm đúng** khách hàng nên nhận được sự **thu hút lớn từ khách hàng tiềm năng** và **tăng giá trị trung bình mỗi đơn**.*
+  
+**II. Channel Performance**
+<img width="2000" height="1515" alt="image" src="https://github.com/user-attachments/assets/bf3380a7-07a4-4d41-b181-67709bf3300d" />
+**<img width="32" height="32" alt="magnifying-glass" src="https://github.com/user-attachments/assets/9e563f9f-2125-4421-b48c-6a805dc8d6b9" />Phát hiện chính** 
+
+**III. Store & Regional Performance**
+<img width="2000" height="1447" alt="image" src="https://github.com/user-attachments/assets/7da8b7b0-d62d-46b4-a351-eb2a9e8aa3b4" />
+**<img width="32" height="32" alt="magnifying-glass" src="https://github.com/user-attachments/assets/9e563f9f-2125-4421-b48c-6a805dc8d6b9" />Phát hiện chính** 
+
+**IV. Product Intelligence**
+<img width="2000" height="1515" alt="image" src="https://github.com/user-attachments/assets/a6a169f9-db92-4ebc-a2e0-210ed8e7232d" />
+**<img width="32" height="32" alt="magnifying-glass" src="https://github.com/user-attachments/assets/9e563f9f-2125-4421-b48c-6a805dc8d6b9" />Phát hiện chính**  
+
+**V. Customer Analytics**
+<img width="2000" height="1515" alt="image" src="https://github.com/user-attachments/assets/89d9f6d3-5518-4a2c-ae99-51ead4322dc3" />
+**<img width="32" height="32" alt="magnifying-glass" src="https://github.com/user-attachments/assets/9e563f9f-2125-4421-b48c-6a805dc8d6b9" />Phát hiện chính** 
+
+**VI. Team & Employee Performance**
+<img width="2000" height="1515" alt="image" src="https://github.com/user-attachments/assets/9ca840e9-16ac-44e5-bf80-0d19b6c3d04b" />
+**<img width="32" height="32" alt="magnifying-glass" src="https://github.com/user-attachments/assets/9e563f9f-2125-4421-b48c-6a805dc8d6b9" />Phát hiện chính** 
+
+
 
 
 
