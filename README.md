@@ -229,6 +229,18 @@ ________________________________________________________________________________
 - **Kênh Online** hoạt động hiểu quả với doanh thu đạt được là **10.3 triệu VND**, chiếm **38.03%**. Mặc dù số lượng đơn chỉ đứng thứ hai sau **kênh In-Store (7 đơn so với 8 đơn)** nhưng **giá trị trung bình mỗi đơn** đạt được là **1.47 triệu VND**, cao hơn nhiều so với 2 kênh còn lại.
 
   → ***Khách hàng có xu hướng chi tiêu nhiều hơn khi mua sắm trực tuyến**, có thể nhờ **các chiến dịch quảng cáo tốt và nhắm đúng** khách hàng nên nhận được sự **thu hút lớn từ khách hàng tiềm năng** và **tăng giá trị trung bình mỗi đơn**.*
+
+**4. Đánh giá hiệu quả hoạt động của từng cửa hàng**
+- **Flagship Store HCM** là cửa hàng có **hiệu suất hoạt động tốt nhất**, đạt doanh thu **10.3 triệu VND**, **cao nhất trong toàn hệ thống** và **vượt xa các cửa hàng còn lại**.
+Cửa hàng này cũng **dẫn đầu về số lượng đơn hàng**, thể hiện **khả năng thu hút khách hàng và chuyển đổi cao**.
+
+  → *Hiệu quả hoạt động nổi bật của Flagship Store HCM cho thấy **vị trí địa lý, quy mô trưng bày** hoặc **trải nghiệm mua sắm tại cửa hàng này đang tạo ra lợi thế cạnh tranh rõ rệt**, góp phần đáng kể vào **tổng doanh thu toàn hệ thống.***
+
+**5. Phân bố địa lý**
+- Khách hàng tập trung chủ yếu tại các thành phố lớn, trong đó TP. Hồ Chí Minh chiếm tỷ trọng cao nhất với 13 khách hàng, mang lại doanh thu 13 triệu VND, tương đương 48.31% tổng doanh thu.
+Đứng thứ hai là Thủ đô Hà Nội với 4 khách hàng, đạt doanh thu 9.5 triệu VND.
+Mặc dù quy mô khách hàng tại Hà Nội nhỏ hơn, nhưng giá trị vòng đời trung bình (AVG CLV) lại cao nhất hệ thống – 8.55 triệu VND, cho thấy khách hàng tại đây có xu hướng trung thành và chi tiêu cao hơn.
+  → *Có thể thấy rằng khách hàng chủ yếu ở hai thành phố lớn nhất Việt Nam là thành phố Hồ Chí Minh và Thủ đô Hà Nội. Ở Hà Nội mặc dù doanh thu không cao bằng thành phố Hồ Chí Minh, nhưng giá trị trung bình vòng đời khách hàng lại cao hơn hẳn, cho thấy rằng có thể phát triển những chiến lược marketing tốt hơn để nâng cao năng suất hoạt động*
   
 **II. Channel Performance**
 <img width="2000" height="1515" alt="image" src="https://github.com/user-attachments/assets/bf3380a7-07a4-4d41-b181-67709bf3300d" />
