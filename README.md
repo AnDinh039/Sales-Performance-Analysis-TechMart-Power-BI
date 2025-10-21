@@ -195,8 +195,20 @@ ________________________________________________________________________________
 </table>
 
 ## 3. LUỒNG TƯ DUY THIẾT KẾ
-### 3.1. Thấu Hiểu
+### 3.1. Thấu Hiểu <img width="32" height="32" alt="thought-leadership" src="https://github.com/user-attachments/assets/4d75784b-a264-402b-bb31-962826f64845" />
 <img width="1216" height="782" alt="image" src="https://github.com/user-attachments/assets/1e60b180-0a71-40c3-acf2-1ad8a4a53686" />
+
+### 3.2. Hành Trình Của StakeHolders <img width="32" height="32" alt="customer-journey" src="https://github.com/user-attachments/assets/0119cff4-14d5-4a4d-b0c5-2e4cdd20559f" />
+<img width="1216" height="782" alt="_Gradient Sale Promotional Business Flag (900 x 900 px) (1216 x 782 px)" src="https://github.com/user-attachments/assets/3fbc0123-d0a0-458b-a279-7d710384b04d" />
+
+### 3.3 Ý Tưởng <img width="32" height="32" alt="idea" src="https://github.com/user-attachments/assets/4569a971-4186-4113-aa1a-717ea3f07c6b" />
+<img width="1216" height="782" alt="_Gradient Sale Promotional Business Flag (900 x 900 px) (1216 x 782 px) (1)" src="https://github.com/user-attachments/assets/cf3ea02e-36b2-4199-aaf8-5de493712bdc" />
+<img width="1216" height="782" alt="_Gradient Sale Promotional Business Flag (900 x 900 px) (1216 x 782 px) (1)" src="https://github.com/user-attachments/assets/f19f2cca-0ab1-484e-be28-a1184d83b8e0" />
+<img width="1216" height="782" alt="_Gradient Sale Promotional Business Flag (900 x 900 px) (1216 x 782 px) (1)" src="https://github.com/user-attachments/assets/c1c1a674-0271-4f25-831f-f074559a94ed" />
+
+
+
+
 
 
 
