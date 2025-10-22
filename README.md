@@ -406,7 +406,20 @@ ________________________________________________________________________________
   
 → Hiệu suất chung của đội ngũ ổn định, cần hỗ trợ hoặc đánh giá lại mục tiêu cá nhân.
 
-**4. 
+**4. Phân bổ vị trí & doanh thu theo chức vụ**
+- Vị trị **Sales Associate** chiếm số lượng trong công ty **(54%)**, đóng góp doanh thu là  **15.4 triệu VND (60%)**
 
+→ Đây là lực lượng bán hàng chủ lực
+
+→ Senior Sales tuy ít người hơn nhưng tạo ra doanh thu bình quân cao hơn, thể hiện kinh nghiệm và hiệu quả ổn định.
+
+## 🧩Tổng Kết & Gợi Ý
+
+| **Strategy** | **Insight** | **Recommendation (Action)** |
+|:--------------|:------------|:-------------------|
+| 🚀 **1. Market & Channel Strategy** | - Online dẫn đầu doanh thu (**10.3M**, chiếm 38%), AOV cao nhất (**1.47M**).<br>- In-store có tần suất mua cao nhưng **ROI -584%** do chi phí lớn.<br>- **Miền Nam chiếm 65% doanh thu**, TP.HCM là thị trường trọng điểm.<br>- **Hà Nội có CLV cao**, nhóm khách trung thành. | - **Tăng đầu tư kênh Online**, tối ưu trải nghiệm Mobile App.<br>- **Cắt giảm chi phí vận hành** tại cửa hàng (đặc biệt Flagship HCM).<br>- **Đẩy mạnh marketing khu vực Hà Nội & Đà Nẵng** để tăng nhận diện thương hiệu. |
+| 📦 **2. Product Portfolio Optimization** | - **Smart TV 55” (PROD003)** dẫn đầu doanh thu (6M).<br>- **Accessories**, **Audio**, **Displays** có biên lợi nhuận cao (≥36%).<br>- **Smart Home** & **Wearables** doanh thu thấp (<1%).<br>- **PROD004, PROD018** tồn kho cao (200–500 sp). | - **Ưu tiên quảng bá nhóm lợi nhuận cao** (Accessories, Audio, Displays).<br>- **Giảm tồn kho** qua khuyến mãi & cross-sell.<br>- **Loại bỏ hoặc tái định vị** nhóm lợi nhuận thấp. |
+| 💎 **3. Customer Strategy** | - **VIP + Premium = 44% khách hàng**, đóng góp **>75% CLV**.<br>- CLV trung bình **VIP = 18.16M**, cao gấp ~5 lần Regular.<br>- VIP/Premium mua qua **Online & App**, thanh toán bằng **ví/thẻ**.<br>- **Khách mới chiếm 81%**, nhưng **tỷ lệ quay lại thấp (19%)**. | - **Tăng cường Loyalty & Personalization** cho nhóm VIP/Premium.<br>- **Khuyến khích nhóm Regular** chuyển sang kênh Online.<br>- **Chăm sóc lại khách cũ** qua email, ưu đãi quay lại. |
+| 🧠 **4. Operational & Workforce Efficiency** | - **TEAM01** dẫn đầu doanh thu (10.3M) và hiệu suất cao nhất.<br>- **Sales Associate** chiếm 54% nhân sự, tạo 60% doanh thu.<br>- Phần lớn nhân viên chưa đạt 100% KPI, **ROI âm toàn hệ thống**.<br>- Chi phí vận hành cao hơn lợi nhuận. | - **Nhân rộng mô hình TEAM01**, đào tạo nội bộ.<br>- **Đánh giá lại KPI & target cá nhân**.<br>- **Giảm chi phí cố định** (mặt bằng, quảng cáo không hiệu quả).<br>- **Ứng dụng BI & CRM** để theo dõi hiệu suất theo thời gian thực. |
 
 
